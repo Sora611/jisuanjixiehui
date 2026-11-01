@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" role="img" aria-label="新生代码夜活动视觉">
+  <defs>
+    <linearGradient id="g3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1B2B"/>
+      <stop offset="1" stop-color="#1D2B4A"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="560" fill="url(#g3)"/>
+  <g stroke="#7FE3D4" stroke-opacity=".18">
+    <path d="M0 140H800M0 280H800M0 420H800"/>
+    <path d="M160 0V560M320 0V560M480 0V560M640 0V560"/>
+  </g>
+  <text x="48" y="64" fill="#7FE3D4" font-family="Consolas, monospace" font-size="18" letter-spacing="4">FIRST COMMIT / 03</text>
+  <text x="740" y="64" text-anchor="end" fill="#F26A3D" font-family="Consolas, monospace" font-size="16">HUTCA</text>
+  <g font-family="Consolas, monospace" fill="#F8F5ED">
+    <text x="92" y="306" font-size="34" fill="#F26A3D">git commit</text>
+    <text x="92" y="350" font-size="24" fill="#A9B8C5">-m "first step"</text>
+  </g>
+  <g fill="none" stroke="#7FE3D4" stroke-width="3">
+    <path d="M440 260H590V350H690"/>
+    <path d="M440 300H540V390H690"/>
+    <path d="M440 340H500V430H690"/>
+  </g>
+  <g fill="#0B1B2B" stroke="#7FE3D4" stroke-width="3">
+    <circle cx="440" cy="260" r="14"/><circle cx="440" cy="300" r="14"/><circle cx="440" cy="340" r="14"/>
+    <circle cx="690" cy="350" r="14"/><circle cx="690" cy="390" r="14"/><circle cx="690" cy="430" r="14"/>
+  </g>
+  <g fill="#F4C95D">
+    <circle cx="690" cy="350" r="6"/><circle cx="690" cy="390" r="6"/><circle cx="690" cy="430" r="6"/>
+  </g>
+  <text x="48" y="470" fill="#F8F5ED" font-family="Microsoft YaHei, sans-serif" font-size="42" font-weight="700">第一次提交，有人陪你</text>
+  <text x="48" y="508" fill="#A9B8C5" font-family="Microsoft YaHei, sans-serif" font-size="18">2026.09.20 / 信息楼机房 / 26 人</text>
+</svg>

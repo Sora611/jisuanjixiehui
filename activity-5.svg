@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" role="img" aria-label="小学编程启蒙课活动视觉">
+  <defs>
+    <linearGradient id="g5" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2A2031"/>
+      <stop offset="1" stop-color="#0B1B2B"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="560" fill="url(#g5)"/>
+  <g opacity=".22" fill="none" stroke="#F4C95D">
+    <circle cx="680" cy="130" r="56"/><circle cx="680" cy="130" r="86"/>
+    <circle cx="160" cy="430" r="32"/><circle cx="160" cy="430" r="58"/>
+  </g>
+  <text x="48" y="64" fill="#F4C95D" font-family="Consolas, monospace" font-size="18" letter-spacing="4">PLAY / 05</text>
+  <text x="740" y="64" text-anchor="end" fill="#7FE3D4" font-family="Consolas, monospace" font-size="16">HUTCA</text>
+  <g transform="translate(130 210)">
+    <rect width="120" height="80" rx="14" fill="#7FE3D4"/>
+    <text x="60" y="50" text-anchor="middle" fill="#0B1B2B" font-family="Consolas, monospace" font-size="22" font-weight="700">01</text>
+    <rect x="146" width="120" height="80" rx="14" fill="#F26A3D"/>
+    <text x="206" y="50" text-anchor="middle" fill="#0B1B2B" font-family="Consolas, monospace" font-size="22" font-weight="700">02</text>
+    <rect x="292" width="120" height="80" rx="14" fill="#F4C95D"/>
+    <text x="352" y="50" text-anchor="middle" fill="#0B1B2B" font-family="Consolas, monospace" font-size="22" font-weight="700">03</text>
+    <g stroke="#F8F5ED" stroke-width="3" fill="none">
+      <path d="M120 40H146M266 40H292"/>
+      <path d="M60 80V128H352V80"/>
+    </g>
+    <path d="M352 128L336 112M352 128L368 112" stroke="#F8F5ED" stroke-width="3"/>
+  </g>
+  <text x="48" y="470" fill="#F8F5ED" font-family="Microsoft YaHei, sans-serif" font-size="42" font-weight="700">顺序、循环和条件</text>
+  <text x="48" y="508" fill="#A9B8C5" font-family="Microsoft YaHei, sans-serif" font-size="18">2026.10.12 / 珠晖区某小学 / 42 名学生</text>
+</svg>
